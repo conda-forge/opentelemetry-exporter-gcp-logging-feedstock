@@ -25,6 +25,7 @@ requirements:
     - opentelemetry-sdk >=1.39.0
     - opentelemetry-api >=1.39.0
     - opentelemetry-resourcedetector-gcp >=1.5.0dev0
+    - typing-extensions
 
 tests:
   - python:
