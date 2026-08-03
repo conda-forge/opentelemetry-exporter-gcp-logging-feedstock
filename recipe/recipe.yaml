@@ -1,5 +1,5 @@
 context:
-  version: "1.13.0a0"
+  version: "1.14.0a0"
 
 package:
   name: opentelemetry-exporter-gcp-logging
@@ -7,7 +7,7 @@ package:
 
 source:
   - url: https://pypi.org/packages/source/o/opentelemetry-exporter-gcp-logging/opentelemetry_exporter_gcp_logging-${{ version }}.tar.gz
-    sha256: 546d2c5b806ec30f28a320df4e2a3ce12bfb3567d212acb6a974a5c7a079aa63
+    sha256: c402db5c90ff3bb98d730ce337f9947237a369fc88a005d4ef2bb7e87a2778b1
 
 build:
   number: 0
